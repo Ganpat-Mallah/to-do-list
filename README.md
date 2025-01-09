@@ -32,3 +32,7 @@ A modern and professional **To-Do List application** designed to help users mana
 ├── README.md 
 # Documentation
 
+
+1. Clone this repository:
+   git clone https://github.com/ganpat-mallah/to-do-list.git
+
