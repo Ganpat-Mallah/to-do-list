@@ -1,0 +1,12 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "A modern and professional **To-Do List application** designed to help users manage their daily tasks efficiently. This project supports features like adding tasks, setting deadlines (date and time), and marking tasks as completed.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
